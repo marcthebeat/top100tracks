@@ -1,5 +1,3 @@
-import type { NextConfig } from "next";
+import { defineConfig } from "next";
 
-const nextConfig: NextConfig = {};
-
-export default nextConfig;
+export default defineConfig({});
