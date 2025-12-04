@@ -1,3 +1,3 @@
-import { defineConfig } from "next";
+const nextConfig = {};
 
-export default defineConfig({});
+export default nextConfig;
